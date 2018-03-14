@@ -1,0 +1,9 @@
+parent[0] = no parent
+parent[1] = 2 with weight = 4
+parent[2] = 3 with weight = 3
+parent[3] = 6 with weight = 2
+parent[4] = 5 with weight = 2
+parent[5] = 2 with weight = 3
+parent[6] = 7 with weight = 3
+parent[7] = 0 with weight = 4
+Total Spanning = 21

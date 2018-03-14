@@ -1,0 +1,10 @@
+Print the edges in the MST:
+3 <--> 6 with weight of 2
+4 <--> 5 with weight of 2
+2 <--> 5 with weight of 3
+6 <--> 7 with weight of 3
+2 <--> 3 with weight of 3
+1 <--> 2 with weight of 4
+0 <--> 7 with weight of 4
+Total Spanning = 21
+
