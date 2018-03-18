@@ -1,5 +1,5 @@
 # Sample-Code
-Sample code of GSoC'18 proposal using the Boost Graph Library.
+Example code using the Boost Graph Library.
 
 # How to run code..??
 Install boost:
