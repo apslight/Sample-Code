@@ -10,8 +10,7 @@
 
 using namespace boost;
 
-// refer this link for explanation
-// (https://docs.google.com/presentation/d/1N62Il1MMHPkYjkxsV8pFGHblHNCvHOobIljEWIektFk/edit#slide=id.g314108e333_0_48)
+// Sample Data link(http://docs.pgrouting.org/2.5/en/sampledata.html#network-for-queries-marked-as-undirected-and-cost-and-reverse-cost-columns-are-used)
 
 int main()
 {
@@ -45,7 +44,7 @@ int main()
         edges[j].second--;
   }
 
-  // Create a Graph with 15 edge
+  // Create a Graph with 18 edge
   #if defined(BOOST_MSVC) && BOOST_MSVC <= 1300
   	Graph g(num_nodes);
   	property_map<Graph, edge_weight_t>::type weightmap = get(edge_weight, g); 

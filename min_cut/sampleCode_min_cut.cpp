@@ -23,8 +23,7 @@ struct edge_t
   unsigned long second;
 };
 
-// refer this link for explanation
-// (https://docs.google.com/presentation/d/1N3ItzKnjSG0RVbgaBLUBMgwIOSzsYCRPdFHX02cg9lo/edit#slide=id.g3141adc0ff_0_272)
+// Sample Data link(http://docs.pgrouting.org/2.5/en/sampledata.html#network-for-queries-marked-as-undirected-and-cost-and-reverse-cost-columns-are-used)
 int main()
 {
 
@@ -48,7 +47,7 @@ int main()
   
 
 
-  // For each of the 18 edges, define the associated edge weight. weights[i] is the weight for the edge
+  // For each of the 16 edges, define the associated edge weight. weights[i] is the weight for the edge
   // that is described by edges[i].
   weight_type weights[] = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1};
 
@@ -61,8 +60,8 @@ int main()
   
   
   // Construct the graph object. 
-  // 8 is the number of vertices, which are numbered from 0 through 7, 
-  // and 12 is the number of edges.
+  // 13 is the number of vertices, which are numbered from 0 through 12, 
+  // and 16 is the number of edges.
   undirected_graph g(edges, edges + 16, weights, 13, 16);
   
   // define a property map, `parities`, that will store a boolean value for each vertex.
@@ -72,7 +71,7 @@ int main()
   // run the Stoer-Wagner algorithm to obtain the min-cut weight. `parities` is also filled in.
   int w = stoer_wagner_min_cut(g, get(edge_weight, g), parity_map(parities));
   
-  // The minimum cut of graph with weight 4.
+  // The minimum cut of graph with weight 1.
   std::cout << "The min-cut weight of G is " << w << ".\n" << std::endl;
  
   // Print of disjoint set which get seperated
