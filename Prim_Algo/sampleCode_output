@@ -1,0 +1,19 @@
+parent[1] = no parent
+parent[2] = 1 with weight = 1
+parent[3] = 2 with weight = 1
+parent[4] = 3 with weight = 1
+parent[5] = 2 with weight = 1
+parent[6] = 3 with weight = 1
+parent[7] = 8 with weight = 1
+parent[8] = 5 with weight = 1
+parent[9] = 6 with weight = 1
+parent[10] = 5 with weight = 1
+parent[11] = 6 with weight = 1
+parent[12] = 11 with weight = 1
+parent[13] = 10 with weight = 1
+parent[14] = no parent
+parent[15] = no parent
+parent[16] = no parent
+parent[17] = no parent
+Total Spanning = 12
+
