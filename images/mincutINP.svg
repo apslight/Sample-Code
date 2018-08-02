@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="33.057cm" height="13.700cm" viewBox="9.950 6.360 43.008 20.060"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<ellipse cx="11.222" cy="8.023" rx="1.128" ry="1.077" fill="#EE90EC" stroke="none"  /><ellipse cx="11.222" cy="8.023" rx="1.128" ry="1.077" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="10.950" y="8.350"  fill="#000000" text-anchor="start" font-size="1.15" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<ellipse cx="21.203" cy="7.944" rx="1.181" ry="1.192" fill="#EE90EC" stroke="none"  /><ellipse cx="21.203" cy="7.944" rx="1.181" ry="1.192" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="21.203" y="8.225"  fill="#000000" text-anchor="middle" font-size="1.15" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<ellipse cx="31.196" cy="7.915" rx="1.226" ry="1.170" fill="#EE90EC" stroke="none"  /><ellipse cx="31.196" cy="7.915" rx="1.226" ry="1.170" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="31.196" y="8.196"  fill="#000000" text-anchor="middle" font-size="1.15" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<ellipse cx="41.416" cy="7.960" rx="1.226" ry="1.170" fill="#EE90EC" stroke="none"  /><ellipse cx="41.416" cy="7.960" rx="1.226" ry="1.170" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="41.416" y="8.241"  fill="#000000" text-anchor="middle" font-size="1.15" font-family="sans" font-style="normal" font-weight="400">
+3</text>
+<ellipse cx="11.236" cy="18.655" rx="1.226" ry="1.170" fill="#EE90EC" stroke="none"  /><ellipse cx="11.236" cy="18.655" rx="1.226" ry="1.170" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="11.236" y="18.936"  fill="#000000" text-anchor="middle" font-size="1.15" font-family="sans" font-style="normal" font-weight="400">
+4</text>
+<ellipse cx="21.206" cy="18.700" rx="1.226" ry="1.170" fill="#EE90EC" stroke="none"  /><ellipse cx="21.206" cy="18.700" rx="1.226" ry="1.170" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="21.206" y="18.981"  fill="#000000" text-anchor="middle" font-size="1.15" font-family="sans" font-style="normal" font-weight="400">
+5</text>
+<ellipse cx="31.226" cy="18.695" rx="1.226" ry="1.170" fill="#EE90EC" stroke="none"  /><ellipse cx="31.226" cy="18.695" rx="1.226" ry="1.170" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="31.226" y="18.976"  fill="#000000" text-anchor="middle" font-size="1.15" font-family="sans" font-style="normal" font-weight="400">
+6</text>
+<ellipse cx="41.396" cy="18.640" rx="1.226" ry="1.170" fill="#EE90EC" stroke="none"  /><ellipse cx="41.396" cy="18.640" rx="1.226" ry="1.170" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="41.396" y="18.921"  fill="#000000" text-anchor="middle" font-size="1.15" font-family="sans" font-style="normal" font-weight="400">
+7</text>
+<line x1="12.512" y1="18.661" x2="19.930" y2="18.694" stroke="#000000" stroke-width="0.100" />
+<line x1="12.400" y1="8.014" x2="19.972" y2="7.954" stroke="#000000" stroke-width="0.100" />
+<line x1="22.434" y1="7.940" x2="29.920" y2="7.919" stroke="#000000" stroke-width="0.100" />
+<line x1="32.472" y1="7.921" x2="40.140" y2="7.954" stroke="#000000" stroke-width="0.100" />
+<line x1="22.481" y1="18.699" x2="29.952" y2="18.696" stroke="#000000" stroke-width="0.100" />
+<line x1="32.500" y1="18.688" x2="40.122" y2="18.647" stroke="#000000" stroke-width="0.100" />
+<line x1="11.236" y1="17.485" x2="11.223" y2="9.141" stroke="#000000" stroke-width="0.100" />
+<line x1="21.206" y1="17.480" x2="21.204" y2="9.186" stroke="#000000" stroke-width="0.100" />
+<line x1="31.223" y1="17.475" x2="31.200" y2="9.135" stroke="#000000" stroke-width="0.100" />
+<line x1="41.398" y1="17.425" x2="41.414" y2="9.175" stroke="#000000" stroke-width="0.100" />
+<line x1="12.084" y1="17.743" x2="20.361" y2="8.850" stroke="#000000" stroke-width="0.100" />
+<line x1="32.083" y1="17.792" x2="40.559" y2="8.863" stroke="#000000" stroke-width="0.100" />
+<text x="15.670" y="7.352"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="42.350" y="12.950"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="35.200" y="12.900"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="29.950" y="12.850"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="21.850" y="12.950"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="15.350" y="12.800"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="9.950" y="12.800"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+3</text>
+<text x="15.230" y="19.815"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+3</text>
+<text x="36.070" y="19.805"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+3</text>
+<text x="25.740" y="7.350"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+3</text>
+<text x="35.960" y="7.495"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+4</text>
+<text x="25.480" y="19.790"  fill="#000000" text-anchor="start" font-size="1.29" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+</svg>
